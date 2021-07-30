@@ -2,11 +2,24 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <OutputType>Library</OutputType>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Authors>https://github.com/empira/PDFsharp</Authors>
+    <Company>https://github.com/empira/PDFsharp</Company>
+    <Product>PdfSharp</Product>
+    <Description>PdfSharp</Description>
+    <Copyright>https://github.com/empira/PDFsharp</Copyright>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <AssemblyOriginatorKeyFile>StrongnameKey.snk</AssemblyOriginatorKeyFile>
+    <SignAssembly>true</SignAssembly>
+    <PublicSign Condition=" '$(OS)' != 'Windows_NT' ">true</PublicSign>
+    <PackageTags>Pdf;PdfSharp</PackageTags>
+    <PackageProjectUrl>https://github.com/empira/PDFsharp/tree/master/src/PdfSharp</PackageProjectUrl>
+    <PackageReleaseNotes>https://github.com/empira/PDFsharp/tree/master/src/CHANGELOG.md</PackageReleaseNotes>
+    <PackageLicenseUrl>https://github.com/empira/PDFsharp/tree/master/src/LICENSE.txt</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DefineConstants>TRACE;DEBUG;CORE;CORE_WITH_GDI</DefineConstants>
