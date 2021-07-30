@@ -1,0 +1,42 @@
+2021-07-30 14:28:29.390 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.302\
+2021-07-30 14:28:29.554 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-07-30 14:28:31.518 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-07-30 14:28:33.518 +01:00 [INF] Applying upgrade step Select an entrypoint
+2021-07-30 14:28:37.123 +01:00 [INF] Upgrade step Select an entrypoint applied successfully
+2021-07-30 14:28:39.485 +01:00 [INF] Initializing upgrade step Select project to upgrade
+2021-07-30 14:28:44.332 +01:00 [INF] Applying upgrade step Select project to upgrade
+2021-07-30 14:28:45.884 +01:00 [INF] Upgrade step Select project to upgrade applied successfully
+2021-07-30 14:28:46.863 +01:00 [INF] Initializing upgrade step Back up project
+2021-07-30 14:28:49.497 +01:00 [INF] Skipping upgrade step Back up project
+2021-07-30 14:28:49.498 +01:00 [INF] Upgrade step Back up project skipped
+2021-07-30 14:28:50.682 +01:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-07-30 14:28:52.049 +01:00 [INF] Applying upgrade step Convert project file to SDK style
+2021-07-30 14:28:52.052 +01:00 [INF] Converting project file format with try-convert
+2021-07-30 14:28:56.702 +01:00 [INF] [try-convert] Conversion complete!
+2021-07-30 14:28:57.242 +01:00 [INF] Project file converted successfully! The project may require additional changes to build successfully against the new .NET target.
+2021-07-30 14:29:04.110 +01:00 [INF] Upgrade step Convert project file to SDK style applied successfully
+2021-07-30 14:29:07.569 +01:00 [INF] Initializing upgrade step Update TFM
+2021-07-30 14:29:08.529 +01:00 [INF] Applying upgrade step Update TFM
+2021-07-30 14:29:12.985 +01:00 [INF] Upgrade step Update TFM applied successfully
+2021-07-30 14:29:36.215 +01:00 [INF] Initializing upgrade step Update NuGet packages
+2021-07-30 14:29:40.949 +01:00 [FTL] Invalid project: C:\Repositories\PDFsharp\src\PdfSharp\PDFsharp.csproj
+2021-07-30 14:32:54.740 +01:00 [INF] Applying upgrade step Update NuGet packages
+2021-07-30 14:32:58.162 +01:00 [FTL] Invalid project: C:\Repositories\PDFsharp\src\PdfSharp\PDFsharp.csproj
+2021-07-30 14:32:58.164 +01:00 [WRN] Upgrade step Update NuGet packages failed: "Failed": Invalid project: C:\Repositories\PDFsharp\src\PdfSharp\PDFsharp.csproj
+2021-07-30 14:33:20.268 +01:00 [INF] Applying upgrade step Update NuGet packages
+2021-07-30 14:33:23.644 +01:00 [FTL] Invalid project: C:\Repositories\PDFsharp\src\PdfSharp\PDFsharp.csproj
+2021-07-30 14:33:23.647 +01:00 [WRN] Upgrade step Update NuGet packages failed: "Failed": Invalid project: C:\Repositories\PDFsharp\src\PdfSharp\PDFsharp.csproj
+2021-07-30 14:33:25.097 +01:00 [INF] Skipping upgrade step Update NuGet packages
+2021-07-30 14:33:25.098 +01:00 [INF] Upgrade step Update NuGet packages skipped
+2021-07-30 14:33:26.378 +01:00 [INF] Initializing upgrade step Add template files
+2021-07-30 14:33:26.395 +01:00 [INF] 0 expected template items needed
+2021-07-30 14:33:26.397 +01:00 [INF] Initializing upgrade step Update C# source
+2021-07-30 14:33:29.046 +01:00 [INF] Initializing upgrade step Move to next project
+2021-07-30 14:33:29.053 +01:00 [INF] Applying upgrade step Move to next project
+2021-07-30 14:33:29.053 +01:00 [INF] Upgrade step Move to next project applied successfully
+2021-07-30 14:33:32.333 +01:00 [INF] Initializing upgrade step Select project to upgrade
+2021-07-30 14:33:33.538 +01:00 [INF] Applying upgrade step Select project to upgrade
+2021-07-30 14:33:35.761 +01:00 [ERR] Unknown selection: ''
+2021-07-30 14:33:36.760 +01:00 [ERR] Unknown selection: ''
+2021-07-30 14:33:38.751 +01:00 [ERR] Unknown selection: '5'
