@@ -15,7 +15,7 @@
     <PackageTags>Pdf;PdfSharp</PackageTags>
     <PackageProjectUrl>https://github.com/empira/PDFsharp/tree/master/src/PdfSharp</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/empira/PDFsharp/tree/master/src/CHANGELOG.md</PackageReleaseNotes>
-    <PackageLicenseUrl>https://github.com/empira/PDFsharp/tree/master/src/LICENSE.txt</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/empira/PDFsharp/blob/master/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
