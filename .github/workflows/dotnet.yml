@@ -30,7 +30,7 @@ jobs:
     - name: Package
       run: |
         cd src
-        dotnet pack --no-restore --configuration Release src/PdfSharp
+        dotnet pack --no-restore --configuration Release PdfSharp
     - name: Push nuget to GitHub Packages
       uses: tanaka-takayoshi/nuget-publish-to-github-packages-action@v2.1
       with:
