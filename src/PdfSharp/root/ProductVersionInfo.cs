@@ -110,7 +110,7 @@ namespace PdfSharp
         /// <summary>
         /// The minor version number of the product.
         /// </summary>
-        public const string VersionMinor = "51";
+        public const string VersionMinor = "75";
 
         /// <summary>
         /// The build number of the product.
